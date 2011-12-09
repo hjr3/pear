@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://hradtke.github.com/pear</id>
+    <updated>2011-12-08T18:24:10-08:00</updated>
+    <title>https://github.com/hradtke PEAR channel Latest Releases</title>
+    <link href="http://hradtke.github.com/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://hradtke.github.com/pear</name>
+    </author>
+
+
+</feed>

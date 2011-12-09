@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>http://hradtke.github.com/pear</name>
+  <summary>https://github.com/hradtke PEAR channel</summary>
+  <alias>hradtke</alias>
+  <url>http://hradtke.github.com/pear</url>
+</server>
+
