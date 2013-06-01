@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-  <name>http://hjr3.github.com/pear</name>
-  <summary>https://github.com/hjr3 PEAR channel</summary>
+  <name>http://hjr3.github.io/pear</name>
+  <summary>https://github.io/hjr3 PEAR channel</summary>
   <alias>hjr3</alias>
-  <url>http://hjr3.github.com/pear</url>
+  <url>http://hjr3.github.io/pear</url>
 </server>
 
